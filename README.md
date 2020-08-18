@@ -1,2 +1,4 @@
-# repo01
-This is My First Repository (Meu Primeiro Repositorio)
+# Alan Vinicius De Melo Bandeira
+
+# Formação Acadêmica
++ TADS Uninove ( 2020-1 - )
